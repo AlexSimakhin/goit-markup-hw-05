@@ -670,8 +670,10 @@ span {
 }
 
 .modal__submit-button {
-  width: 100%;
-  padding: 12px;
+  display: block;
+  height: 56px;
+  width: 169px;
+  margin: 0 auto;
   background-color: #4D5AE5;
   color: white;
   border: none;
